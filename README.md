@@ -1,2 +1,4 @@
-# Questionnaire_script
-Bash script that runs a simple questionnaire
+# Learning Bash Scripting
+## Projects Include
+- Questionnaire
+- Countwoen Timer
